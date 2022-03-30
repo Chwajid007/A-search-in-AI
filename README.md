@@ -1,1 +1,1 @@
-# A-search-in-AI
+# A*-search-in-AI
